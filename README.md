@@ -15,7 +15,9 @@ Passionate Robotics Software Engineer focused on solving perception problems to 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/naveen-chinta-a43751203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen chinta" height="30" width="40" /></a>
-<a href="mailto:kc4886@nyu.edu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="40" /></a>
+<a href="mailto:kc4886@nyu.edu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" alt="Email" height="30" width="40" style="filter: invert(85%) sepia(100%) saturate(500%) hue-rotate(100deg) brightness(1.2) contrast(0.8);"/></a>
+
+
 
 
 </p>
