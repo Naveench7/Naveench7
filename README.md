@@ -8,9 +8,6 @@
 Passionate Robotics Software Engineer focused on solving perception problems to enhance the capabilities of intelligent robotic systems. As a recent graduate from NYU, I am enthusiastic about applying my expertise in a dynamic and collaborative work setting, where I can proactively tackle challenging tasks. With a diverse skill set at my disposal, I am poised to deliver impactful solutions.
 
 - 💼 Robotics Software Engineer
--  :weight_lifting_man: Gym
--  :chess_pawn: Play Chess
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
